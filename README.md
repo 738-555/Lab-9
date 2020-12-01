@@ -1,4 +1,4 @@
-<img src="media/azure-pipelines-succeeded.png?view=azure-devops" alt="Значок состояния показывает, что конвейер Azure успешно завершен" data-linktype="relative-path">
+<img src="https://docs.microsoft.com/ru-ru/azure/devops/pipelines/media/azure-pipelines-succeeded.png?view=azure-devops" alt="Значок состояния показывает, что конвейер Azure успешно завершен" data-linktype="relative-path">
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
